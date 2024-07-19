@@ -1,0 +1,5 @@
+rNXLprtsrmJgGsg8
+ameeruddincodersnest
+mongodb+srv://ameeruddincodersnest:rNXLprtsrmJgGsg8@cluster0.3zttxpq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+6698bf4cd270bf74e2516fc5
